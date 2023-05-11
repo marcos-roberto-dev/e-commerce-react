@@ -1,3 +1,3 @@
 export default function Home() {
-  return <main>Welcome to NextJS</main>
+  return <main>Welcome to NextJS, Typescript</main>
 }
